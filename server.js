@@ -65,8 +65,6 @@ let jsonArray = {
 
         });
 
-
-
     // working code bellow to write VVVVVVVVVVVVV
     // let data = `${mickey} || ${mouse} || ${recipe} || ${time}\n`;
     // // obj.table.push({id: 1, square:2});
